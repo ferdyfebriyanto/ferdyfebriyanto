@@ -4,8 +4,8 @@
   <h3 align="center"><i>"Masih noob, dilarang membully👶"</i></h3>
   <p align="center">Connect with me:</p>
 <p align="center">
-<a href="https://facebook.com/ferdy-febriyanto" target="_blank"><img align="center" src="https://img.icons8.com/color/50/000000/facebook-circled--v4.png" alt="ferdyfebriyanto" /></a>
-<a href="https://instagram.com/ferdyfebriyanto" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="ferdyfebriyanto" /></a>
+<a href="https://facebook.com/ferdyfebriyanto" target="_blank"><img align="center" src="https://img.icons8.com/color/50/000000/facebook-circled--v4.png" alt="ferdyfebriyanto" /></a>
+<a href="https://instagram.com/ferdy_febriyanto" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="ferdyfebriyanto" /></a>
 <a href="https://www.linkedin.com/in/ferdy-febriyanto-44b27013a/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="ferdyfebriyanto"/></a>&nbsp;
 <a href="mailto:ferdyfebriyanto22@gmail.com?subject=Hello Bang" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>&nbsp;
 <a href="https://discord.gg/cxparEDU" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/discord--v2.png" alt="ferdyfebriyanto" /></a>
