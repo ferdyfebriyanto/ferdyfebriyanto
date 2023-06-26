@@ -26,3 +26,4 @@
 ## Contributions
 <img src="https://github.com/ferdyfebriyanto/ferdyfebriyanto/blob/output/github-contribution-grid-snake.svg">
 
+![github-contribution-grid-snake](https://github.com/ferdyfebriyanto/ferdyfebriyanto/assets/47923906/81c8cbd5-6fa4-4761-9d08-98f54f48cb8a)
