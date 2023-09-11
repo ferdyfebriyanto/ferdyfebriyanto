@@ -18,6 +18,8 @@
 ![Ferdy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ferdyfebriyanto&show_icons=true&show_icons=true&theme=react&locale=en)
 ![Ferdy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferdyfebriyanto&layout=compact&theme=react)
 
+<a href="https://stardev.io/developers/ferdyfebriyanto"><img alt="Check out ferdyfebriyanto's profile on stardev.io" src="https://stardev.io/developers/ferdyfebriyanto/badge/languages/global.svg" /></a>
+
 
 <p align="center">
 <img align="center" src="https://komarev.com/ghpvc/?username=ferdyfebriyanto&color=61dafb" width="120"/>
@@ -26,4 +28,4 @@
 ## Contributions
 ![github-contribution-grid-snake](https://github.com/ferdyfebriyanto/ferdyfebriyanto/assets/47923906/81c8cbd5-6fa4-4761-9d08-98f54f48cb8a)
 
-<a href="https://stardev.io/developers/ferdyfebriyanto"><img alt="Check out ferdyfebriyanto's profile on stardev.io" src="https://stardev.io/developers/ferdyfebriyanto/badge/languages/global.svg" /></a>
+
